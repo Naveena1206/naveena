@@ -6,7 +6,10 @@ git remote add origin https://github.com/Naveena1206/naveena.git
 code .
 
 <!-- git status
-     git add
+     git add .
      git status
-     git commit
+     git commit -m
      git push -->
+
+git  checkout -b "branch-Name"
+     
