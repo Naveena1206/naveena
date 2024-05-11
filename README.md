@@ -5,11 +5,11 @@ git init
 git remote add origin https://github.com/Naveena1206/naveena.git
 code .
 
-<!-- git status
+     git status
      git add .
      git status
      git commit -m
-     git push -->
+     git push 
 
 git  checkout -b "branch-Name"
      
